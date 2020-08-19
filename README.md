@@ -14,8 +14,6 @@ Live Version here: https://ragazziana.github.io/googleclone/
 
 ![Google Clone](https://github.com/ragazziana/googleclone/blob/master/images/googleclone.png?raw=true "Google Clone")
 
-This is the example of the book.
-
 ![Google Clone](https://github.com/ragazziana/googleclone/blob/master/images/googleclonerespons.png?raw=true "Google Clone")
 
 ## Technologies used in this project
