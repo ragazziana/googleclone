@@ -7,6 +7,9 @@ For this project, I used mostly flexbox for position elements on the navbar, mai
 
 Had a hard time trying to position the icons on the search box. In the end, I managed to put all of them using the "position: absolute" and working with margins and paddings.
 
+💻🖱️
+Live Version here: https://ragazziana.github.io/googleclone/
+
 **Ths is the final result:**
 
 ![Google Clone](https://github.com/ragazziana/googleclone/blob/master/images/googleclone.png?raw=true "Google Clone")
