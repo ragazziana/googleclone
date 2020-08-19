@@ -7,6 +7,8 @@ body{
     flex-direction: column;
 }
 
+/*Navbar*/
+
 .navbar{
     height: 5vh;
     display: flex;
@@ -52,8 +54,9 @@ body{
     margin-right: 20px;
 }
 
-.main-content{
+/*Main Content*/
 
+.main-content{
     height: 79vh;
     display: flex;
     justify-content: center;
@@ -76,7 +79,6 @@ body{
     box-sizing: border-box;
     text-indent: 25px;
 }
-
 
 #search:hover{
     box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
@@ -166,7 +168,7 @@ body{
     text-decoration: underline;
 }
 
-
+/*Footer*/
 
 .country{
     display: flex;
@@ -212,6 +214,8 @@ body{
 .footer-links:hover{
     text-decoration: underline;
 }
+
+/*Small Sevices*/
 
 @media (max-width: 375px){
     #search{
